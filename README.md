@@ -4,7 +4,7 @@
 # Overview
 Title: Student Grade Tracker
 Language: Java
-Repository: [Link to GitHub Repository]
+Repository: https://github.com/Vedant6800/studentGradeTracker
 
 # Purpose
 Objective: The Student Grade Tracker is a Java console application designed to simplify the process of grade tracking for teachers. It provides essential features for managing and analyzing students' academic performance efficiently.
